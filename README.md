@@ -3,7 +3,6 @@
 ![logo](https://github.com/Kongjiyoung/miniproject2/assets/153582359/5727cba0-d9c3-45e2-ab1e-d8a200cef3de)
 
 ## 1. 시연영상
-https://youtu.be/n3okvtsAnIU
 
 ## 2. 발표자료
 [Uploading 미니프로젝트1조_2차 (1).pptx…]()
