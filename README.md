@@ -6,7 +6,7 @@
 https://youtu.be/n3okvtsAnIU
 
 ## 2. 발표자료
-[Uploading 미니프로젝트1조_1차.pptx…]()
+[Uploading 미니프로젝트1조_2차 (1).pptx…]()
 
 
 ## 3. 팀소개 및 각자 맡은 기능
