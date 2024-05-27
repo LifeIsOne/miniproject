@@ -5,7 +5,8 @@
 ## 1. 시연영상
 
 ## 2. 발표자료
-[미니프로젝트1조.pptx](https://github.com/Kongjiyoung/miniproject/files/14600963/1.pptx)
+[Uploading 미니프로젝트1조_1차.pptx…]()
+
 
 ## 3. 팀소개 및 각자 맡은 기능
 ## 3-1. JPA
